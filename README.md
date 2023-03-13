@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="400" src="/awesome-inha.jpg" />
+    <img width="700" src="/awesome-inha.jpg" />
     <br> Awesome-Inha
 </h1>
 
