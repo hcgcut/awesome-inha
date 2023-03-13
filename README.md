@@ -11,7 +11,8 @@
 ## 개요
 인하대 밥집의 리스트 및 리뷰가 담긴 저장소 입니다. 
 
-> 많은 기여 부탁드립니다!
+> 많은 기여 부탁드립니다! \
+[CONTRIBUTING.md](https://github.com/hcgcut/awesome-inha/blob/main/CONTRIBUTING.md)를 읽고 해주세요!
 
 
 ## 리스트
