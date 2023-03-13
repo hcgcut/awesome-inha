@@ -36,3 +36,18 @@
   - 수육국밥 8000원
 - 특징
   - 김치맛이 좋은편이다. 깍두기도 준다.
+
+#### [KFC](https://naver.me/xgaZ08Ab)
+
+- 위치
+  - 후문 약사 앞, 베스킨라빈스31 옆 건물
+
+- 메뉴와 가격
+  - 9시 이후 [1+1](https://www.kfckorea.com/promotion/promotionList/detail/19) 이벤트 진행
+  - [여기](https://www.kfckorea.com/delivery/chicken)에서 1+1 해당 상품 확인 가능
+  - 최저 3,300원으로 치킨 두조각 취식 가능
+- 특징
+  - 위 이벤트는 9시 이후에만 진행됨
+  - 호감작을 해 두었다면 늦게 갈수록 급식실의 행운처럼 추가 소스 획득 가능
+  - 가난한 대학생들에게는 치킨이란 행운의 물건이다.
+  - 이 항목은 github copilot의 도움을 받았다.
