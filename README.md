@@ -52,7 +52,7 @@
   - 가난한 대학생들에게는 치킨이란 행운의 물건이다.
   - 이 항목은 github copilot의 도움을 받았다.
 
-### [궁중보쌈](https://map.naver.com/v5/search/%EA%B6%81%EC%A4%91%EB%B3%B4%EC%8C%88%20%EC%9D%B8%ED%95%98%EB%8C%80/place/623497804?c=15.32,0,0,2,dh&isCorrectAnswer=true)
+#### [궁중보쌈](https://map.naver.com/v5/search/%EA%B6%81%EC%A4%91%EB%B3%B4%EC%8C%88%20%EC%9D%B8%ED%95%98%EB%8C%80/place/623497804?c=15.32,0,0,2,dh&isCorrectAnswer=true)
 
  - 위치
    - 후문 약사에서 좌회전, 오하요가 있는 건물 2층에 있다
